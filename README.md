@@ -1,6 +1,6 @@
 # ML-LensaKulitku-Bangkit-Capstone-Project
-This is a ML part of Bangkit's Capstone Project
-in this project we as a Machine Learning team has contribute in Build a model with TensorFlow lite using a data pipeline to present the model. Preprocessing data using data augmentation and training the model using transfer learning & fine tuning method with VGG16 architecture.
+This is a ML part of Bangkit's Capstone Project.
+In this project we as a Machine Learning team has contribute in Build a model with TensorFlow lite using a data pipeline to present the model. Preprocessing data using data augmentation and training the model using transfer learning & fine tuning method with VGG16 architecture.
 
 # Tools
 * ML Libraries and Frameworks:
