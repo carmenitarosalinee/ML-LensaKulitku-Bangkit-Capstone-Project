@@ -17,13 +17,13 @@ in this project we as a Machine Learning team has contribute in Build a model wi
 * Kaggle
 * Google Drive
 
-# Dataset
+## Dataset
+
 we collect datasets from kaggle and put them into Google drive
 
-Data Source link: 
-[Link 1 (https://www.kaggle.com/datasets/aditibane/skindiseasedataset/data)] 
-[Link 2] ((https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)>
-[Link 3] (https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
+**Data Source link**
+- [Data Source 1](https://www.kaggle.com/datasets/aditibane/skindiseasedataset/data)
+- [Data Source 2](https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)
+- [Data Source 3](https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
 
-Dataset Link: 
-[Dataset] (https://drive.google.com/drive/folders/1VNPP_vB8Dn47Cz1NwX1iKTChShHGixjC)
+**Dataset link** : [Dataset](https://drive.google.com/drive/folders/1VNPP_vB8Dn47Cz1NwX1iKTChShHGixjC)
