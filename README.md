@@ -1,6 +1,9 @@
 # ML-LensaKulitku-Bangkit-Capstone-Project
-This is a ML part of Bangkit's Capstone Project.
-In this project we as a Machine Learning team has contribute in Build a model with TensorFlow lite using a data pipeline to present the model. Preprocessing data using data augmentation and training the model using transfer learning & fine tuning method with VGG16 architecture.
+This is a ML part of Bangkit's Capstone Project. In this Capstone Project our group-team build a Mobile Aplication called LensaKulitku. 
+LensaKulitku is an innovative application designed to tackle the pressing issue of delayed skin disease detection and limited access to dermatology services. Many individuals face challenges such as long distances to clinics, high medical costs, and a lack of awareness about skin health. These barriers often result in delayed care, leading to worsening health outcomes.
+With LensaKulitku, we aim to bridge this gap by providing a convenient, accessible, and affordable solution for early skin disease detection, empowering users to take charge of their skin health from the comfort of their homes.
+
+In this project we have 3 part of our group-team, which are Machine Learning team, Mobile Developer team, and cloud computing team. All of us have our jobdesk in making our project. As a Machine Learning team, we contribute in Build a model with TensorFlow lite using a data pipeline to present the model. Preprocessing data using data augmentation and training the model using transfer learning & fine tuning method with VGG16 architecture.
 
 # Tools
 * ML Libraries and Frameworks:
