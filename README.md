@@ -31,4 +31,4 @@ we collect datasets from kaggle and put them into Google drive
 
 **Dataset link** : [Dataset](https://drive.google.com/drive/folders/1VNPP_vB8Dn47Cz1NwX1iKTChShHGixjC)
 
-## Our Apllication Site: [LensaKulitku.com].(https://lensakulitku.netlify.app/)
+## Our Apllication Site: [LensaKulitku.com](https://lensakulitku.netlify.app/)
