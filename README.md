@@ -4,14 +4,14 @@ in this project we as a Machine Learning team has contribute in Build a model wi
 
 # Tools
 * ML Libraries and Frameworks:
-- TensorFlow
-- Keras
-- TFLite
-- OpenCV
-- scikit-learn
-- pandas
-- numpy
-- matplotlib/seaborn
+  - TensorFlow
+  - Keras
+  - TFLite
+  - OpenCV
+  - scikit-learn
+  - pandas
+  - numpy
+  - matplotlib/seaborn
 * Visual Studio Code
 * Google Colab
 * Kaggle
@@ -21,9 +21,9 @@ in this project we as a Machine Learning team has contribute in Build a model wi
 we collect datasets from kaggle and put them into Google drive
 
 Data Source link: 
-<Link 1> (https://www.kaggle.com/datasets/aditibane/skindiseasedataset/data)
-<Link 2> (https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)
-<Link 3> (https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
+<Link 1(https://www.kaggle.com/datasets/aditibane/skindiseasedataset/data)>
+<Link 2((https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)>
+<Link 3(https://www.kaggle.com/datasets/shubhamgoel27/dermnet)>
 
 Dataset Link: 
-<Dataset> (https://drive.google.com/drive/folders/1VNPP_vB8Dn47Cz1NwX1iKTChShHGixjC)
+<Dataset(https://drive.google.com/drive/folders/1VNPP_vB8Dn47Cz1NwX1iKTChShHGixjC)>
