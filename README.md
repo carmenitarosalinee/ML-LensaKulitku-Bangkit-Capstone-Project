@@ -21,7 +21,7 @@ in this project we as a Machine Learning team has contribute in Build a model wi
 we collect datasets from kaggle and put them into Google drive
 
 Data Source link: 
-[Link 1] (https://www.kaggle.com/datasets/aditibane/skindiseasedataset/data)
+[Link 1 (https://www.kaggle.com/datasets/aditibane/skindiseasedataset/data)] 
 [Link 2] ((https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)>
 [Link 3] (https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
 
